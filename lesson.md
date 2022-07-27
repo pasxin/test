@@ -74,7 +74,6 @@ git status
 ```
 git checkout
 ```     
-<<<<<<< HEAD
 ## Перенос ветки в начало
 
 Для переноса ветки в начала 
@@ -82,11 +81,13 @@ git checkout
 ```
 git rebase
 ```
-=======
 ## Обьеденение веток
 Для обьеденения веток используй команду 
 
 ```
 git merge
 ```
->>>>>>> f3b16c6 (пробую ребазу)
+ghjgghghjg
+klhlhlkhkl
+jgkgkjgkj
+hlhlkhlkh
